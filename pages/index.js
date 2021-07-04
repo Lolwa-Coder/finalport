@@ -14,7 +14,7 @@ export default function Home() {
       <div className={styles.navbar}>
         <img src="/logo1.png" />
         <div className={styles.navbuttons}>
-        <a href="https://drive.google.com/file/d/1W-0tEKuWzDHy3s1F9H5cIViU5sWLwjaG/view" target="_blank"><p className={styles.Resume}>Resume</p></a>
+        <a href="https://drive.google.com/file/d/1W-0tEKuWzDHy3s1F9H5cIViU5sWLwjaG/view" target="_blank" rel="noopener noreferrer"><p className={styles.Resume}>Resume</p></a>
       </div> 
       <div></div>
       </div> 
@@ -41,10 +41,10 @@ export default function Home() {
           <h2>For the overview of projects</h2>
           <h3>WORKS</h3>
           <div className={styles.workFlex}>
-            <div><a href="https://lolwa-coder.github.io/Aim-Trainer/"target="_blank"><img src="/Capture.png" />Aim Trainer</a></div>
-            <div><a href="https://drall.vercel.app/"target="_blank"><img src="/chat.png" />Drall-Chat</a></div>
-            <div><a href="https://istream.vercel.app/"target="_blank"><img src="/ISTREAM.png" />ISTREAM</a></div>
-            <div><a href="https://news-lolwa-coder.vercel.app/news"target="_blank"><img src="/news.png" />Knews</a></div>
+            <div><a href="https://lolwa-coder.github.io/Aim-Trainer/"target="_blank" rel="noopener noreferrer"><img src="/Capture.png" />Aim Trainer</a></div>
+            <div><a href="https://drall.vercel.app/"target="_blank" rel="noopener noreferrer"><img src="/chat.png" />Drall-Chat</a></div>
+            <div><a href="https://istream.vercel.app/"target="_blank" rel="noopener noreferrer"><img src="/ISTREAM.png" />ISTREAM</a></div>
+            <div><a href="https://news-lolwa-coder.vercel.app/news"target="_blank" rel="noopener noreferrer"><img src="/news.png" />Knews</a></div>
           </div>
         </div>
         <div className={styles.works2}>
@@ -59,11 +59,11 @@ export default function Home() {
         </div>
 
       <footer className={styles.footer}>
-       <a href="https://www.instagram.com/dew_drunk/" target="_blank"><img src="/NicePng_instagram-png-black_2770947.png" /></a>
-       <a href="https://www.youtube.com/channel/UClQPu7_4ljmZZnE05WhcU6g" target="_blank"><img src="/dc4LABqni.png" /></a>
+       <a href="https://www.instagram.com/dew_drunk/" target="_blank" rel="noopener noreferrer"><img src="/NicePng_instagram-png-black_2770947.png" /></a>
+       <a href="https://www.youtube.com/channel/UClQPu7_4ljmZZnE05WhcU6g" target="_blank" rel="noopener noreferrer"><img src="/dc4LABqni.png" /></a>
 
-       <a href="https://github.com/Lolwa-Coder" target="_blank"><img src="/download.png" /></a>
- <a href="https://www.linkedin.com/in/prabhanshu-singh-sikarwar-011971199/" target="_blank"><img src="/logo1.png" /></a>
+       <a href="https://github.com/Lolwa-Coder" target="_blank" rel="noopener noreferrer"><img src="/download.png" /></a>
+ <a href="https://www.linkedin.com/in/prabhanshu-singh-sikarwar-011971199/" target="_blank" rel="noopener noreferrer"><img src="/logo1.png" /></a>
       
       </footer>
     </div> 
