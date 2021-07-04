@@ -41,10 +41,10 @@ export default function Home() {
           <h2>For the overview of projects</h2>
           <h3>WORKS</h3>
           <div className={styles.workFlex}>
-            <div><a href="https://lolwa-coder.github.io/Aim-Trainer/"target="_blank" rel="noopener noreferrer"><img src="/Capture.png" />Aim Trainer</a></div>
-            <div><a href="https://drall.vercel.app/"target="_blank" rel="noopener noreferrer"><img src="/chat.png" />Drall-Chat</a></div>
-            <div><a href="https://istream.vercel.app/"target="_blank" rel="noopener noreferrer"><img src="/ISTREAM.png" />ISTREAM</a></div>
-            <div><a href="https://news-lolwa-coder.vercel.app/news"target="_blank" rel="noopener noreferrer"><img src="/news.png" />Knews</a></div>
+            <div><a href="https://lolwa-coder.github.io/Aim-Trainer/"target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Lolwa-Coder/Images/main/aim-trainer.PNG" />Aim Trainer</a></div>
+            <div><a href="https://drall.vercel.app/"target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Lolwa-Coder/Images/main/chat.PNG" />Drall-Chat</a></div>
+            <div><a href="https://istream.vercel.app/"target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Lolwa-Coder/Images/main/ISTREAM.PNG" />ISTREAM</a></div>
+            <div><a href="https://news-lolwa-coder.vercel.app/news"target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Lolwa-Coder/Images/main/news.PNG" />Knews</a></div>
           </div>
         </div>
         <div className={styles.works2}>
