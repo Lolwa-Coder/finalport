@@ -24,48 +24,48 @@ export default function Home() {
         <h1>PRABHANSHU<br/> SINGH SIKARWAR</h1>
         <h2> front-end | back-end | Design</h2>
         </div>    </div>
-        <img className={styles.meri} src="/fhotu.png"></img>
+        <img className={styles.meri} src="/fhotu.png" />
         <div className={styles.works2}>
           <h2>For the introduction of ours </h2>
           <h3>Current Knowledge</h3>
           <div className={styles.workFlex2}>
-          <div><img src="/react-1-logo-png-transparent.png"></img></div>
-          <div><img src="/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png"></img></div>
-          <div><img src="/JavaScript-logo.png"></img></div>
-          <div><img src="/download (1).png"></img></div>
-          <div><img src="/unity-logo.png"></img></div>
-          <div><img src="/twitter-square.daf77586b35e90319725e742f6e069f9.jpg"></img></div>
+          <div><img src="/react-1-logo-png-transparent.png" /></div>
+          <div><img src="/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png" /></div>
+          <div><img src="/JavaScript-logo.png" /></div>
+          <div><img src="/download (1).png" /></div>
+          <div><img src="/unity-logo.png" /></div>
+          <div><img src="/twitter-square.daf77586b35e90319725e742f6e069f9.jpg" /></div>
           
         </div></div>
         <div className={styles.works}>
           <h2>For the overview of projects</h2>
           <h3>WORKS</h3>
           <div className={styles.workFlex}>
-            <div><a href="https://lolwa-coder.github.io/Aim-Trainer/"target="_blank"><img src="/Capture.png"></img>Aim Trainer</a></div>
-            <div><a href="https://drall.vercel.app/"target="_blank"><img src="/chat.png"></img>Drall-Chat</a></div>
-            <div><a href="https://istream.vercel.app/"target="_blank"><img src="/ISTREAM.png"></img>ISTREAM</a></div>
-            <div><a href="https://news-lolwa-coder.vercel.app/news"target="_blank"><img src="/news.png"></img>Knews</a></div>
+            <div><a href="https://lolwa-coder.github.io/Aim-Trainer/"target="_blank"><img src="/Capture.png" />Aim Trainer</a></div>
+            <div><a href="https://drall.vercel.app/"target="_blank"><img src="/chat.png" />Drall-Chat</a></div>
+            <div><a href="https://istream.vercel.app/"target="_blank"><img src="/ISTREAM.png" />ISTREAM</a></div>
+            <div><a href="https://news-lolwa-coder.vercel.app/news"target="_blank"><img src="/news.png" />Knews</a></div>
           </div>
         </div>
         <div className={styles.works2}>
           <h2>For the love of creativity</h2>
           <h3>Sketches</h3>
           <div className={styles.workFlex}>
-            <div><img src="/Img20200321174843.jpg"></img></div>
-            <div><img src="/15897000201871589700013068.jpg"></img></div>
-            <div><img src="/Img20200503235844.jpg"></img></div>
-            <div><img src="/IMG20200314035241.jpg"></img></div>
+            <div><img src="/Img20200321174843.jpg" /></div>
+            <div><img src="/15897000201871589700013068.jpg " /></div>
+            <div><img src="/Img20200503235844.jpg" /></div>
+            <div><img src="/IMG20200314035241.jpg" /></div>
           </div>
         </div>
 
       <footer className={styles.footer}>
-       <a href="https://www.instagram.com/dew_drunk/" target="_blank"><img src="/NicePng_instagram-png-black_2770947.png"></img></a>
-       <a href="https://www.youtube.com/channel/UClQPu7_4ljmZZnE05WhcU6g" target="_blank"><img src="/dc4LABqni.png"></img></a>
+       <a href="https://www.instagram.com/dew_drunk/" target="_blank"><img src="/NicePng_instagram-png-black_2770947.png" /></a>
+       <a href="https://www.youtube.com/channel/UClQPu7_4ljmZZnE05WhcU6g" target="_blank"><img src="/dc4LABqni.png" /></a>
 
-       <a href="https://github.com/Lolwa-Coder" target="_blank"><img src="/download.png"></img></a>
- <a href="https://www.linkedin.com/in/prabhanshu-singh-sikarwar-011971199/" target="_blank"><img src="/logo1.png"></img></a>
+       <a href="https://github.com/Lolwa-Coder" target="_blank"><img src="/download.png" /></a>
+ <a href="https://www.linkedin.com/in/prabhanshu-singh-sikarwar-011971199/" target="_blank"><img src="/logo1.png" /></a>
       
       </footer>
-    </div>
+    </div> 
   )
 }
